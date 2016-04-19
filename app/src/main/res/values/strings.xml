@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestFlavRes</string>
+    <string name="prod_res">bar</string>
 </resources>
